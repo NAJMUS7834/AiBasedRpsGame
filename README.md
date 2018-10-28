@@ -1,5 +1,5 @@
 # AiBasedRpsGame
-AiBasedRpsGame is a artificial intelligence based android game application.In which 
+AiBasedRpsGame is a artificial intelligence based android game .In which 
 RPS game is played between user and AI with 4 levels and 1 unlimited mode.
 
 ![videotogif_2018 04 22_20 28 58](https://user-images.githubusercontent.com/31741209/39122160-94565afa-4711-11e8-8d24-7a3b8878916a.gif)
